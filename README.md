@@ -1,4 +1,4 @@
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/aalks)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/aalks)
 # DDoS-Tools
 The ddos tools that are often used are for knowledge and learning only.
 
@@ -32,4 +32,4 @@ The ddos tools that are often used are for knowledge and learning only.
 Donate me for more ddos tools :)
 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/aalks)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/aalks)
