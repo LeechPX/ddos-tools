@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/aalks)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/aalks)
 # DDoS-Tools
 The ddos tools that are often used are for knowledge and learning only.
 
@@ -26,3 +26,10 @@ The ddos tools that are often used are for knowledge and learning only.
 
 
 **Memcrashed** : https://github.com/649/Memcrashed-DDoS-Exploit
+
+# Donation
+
+Donate me for more ddos tools :)
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/aalks)
