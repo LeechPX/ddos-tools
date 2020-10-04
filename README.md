@@ -22,3 +22,6 @@ The ddos tools that are often used are for knowledge and learning only.
 
 
 **Saddam** : https://github.com/OffensivePython/Saddam
+
+
+**Memcrashed** : https://github.com/649/Memcrashed-DDoS-Exploit
