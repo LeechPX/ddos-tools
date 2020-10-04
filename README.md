@@ -15,7 +15,10 @@ The ddos tools that are often used are for knowledge and learning only.
 **UDP Flood** : https://github.com/MertOzerdem/DDOS-TOLL/blob/master/Cyber/flood_udp.py
 
 
-**AnonyDDoSer** : https://www.github.com/PassDDoS/AnonyDDoSer
+**AnonyDDoSer** : https://github.com/PassDDoS/AnonyDDoSer
 
 
 **LITEDDOS** : https://github.com/4L13199/LITEDDOS
+
+
+**Saddam** : https://github.com/OffensivePython/Saddam
