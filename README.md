@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/aalks)
 # DDoS-Tools
 The ddos tools that are often used are for knowledge and learning only.
 
