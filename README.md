@@ -1,4 +1,4 @@
-# tools-ddos
+# DDoS-Tools
 The ddos tools that are often used are for knowledge and learning only.
 
 # Credits
