@@ -1,7 +1,3 @@
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/aalks)
-
-![Beta](https://img.shields.io/badge/Beta-Project-yellow.svg)
-
 ![Education](https://img.shields.io/badge/Use-At%20Your%20Own%20Risk-red.svg)
 
 # DDoS-Tools
@@ -31,6 +27,9 @@ The ddos tools that are often used are for knowledge and learning only.
 
 
 **Memcrashed** : https://github.com/649/Memcrashed-DDoS-Exploit
+
+
+**SYN-Flood** : https://github.com/EmreOvunc/Python-SYN-Flood-Attack-Tool
 
 # Donation
 
