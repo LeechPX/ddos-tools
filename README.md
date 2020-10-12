@@ -1,4 +1,4 @@
-![Education](https://img.shields.io/badge/Use-At%20Your%20Own%20Risk-red.svg)
+![Education](https://img.shields.io/badge/Use-At%20Your%20Own%20Risk-red?logo=appveyor)
 
 # DDoS-Tools
 The ddos tools that are often used are for knowledge and learning only.
