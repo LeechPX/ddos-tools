@@ -4,27 +4,30 @@
 import os,sys,time,random
 
 def ponik():
-    global peler
+    global ttlgen
     if sys.platform.startswith("linux"):
         os.system('clear')
     if sys.platform.startswith("freebsd"):
         os.system('clear')
-    if sys.platform.startswith("Windows"):
+    if sys.platform.startswith("Win32"):
         os.system('cls')
     else:
         os.system('clear')
-    peler = int(input('How many Proxy? [1-Unlimited] : '))
-    if peler == '':
+    ttlgen = int(input('How many Proxy? [1-Unlimited] : '))
+    if ttlgen == '':
         ponik()
-    elif peler >= 100000:
-        print('\nAre you sure want generate ' + str(ttlgen) + 'Proxy?')
-        gen()
+    elif ttlgen >= 100000:
+        huh = str(input('\nAre you sure want generate ' + str(ttlgen) + 'Proxy? : '))
+        if huh == "":
+           gen()
+        else:
+            ponik()
     else:
         if sys.platform.startswith("linux"):
             os.system('clear')
         if sys.platform.startswith("freebsd"):
             os.system('clear')
-        if sys.platform.startswith("Windows"):
+        if sys.platform.startswith("Win32"):
             os.system('cls')
         else:
             os.system('clear')
@@ -68,7 +71,7 @@ def gen():
                 continue
                 sys.stdout.flush()
                 print(str(i) + " Proxies Was Generated.")
-                surtod.close()
+                file.close()
         else:
             sys.stdout.flush()
             print(str(i) + " Proxies Was Generated.")
