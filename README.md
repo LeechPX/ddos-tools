@@ -33,11 +33,3 @@ The ddos tools that are often used are for knowledge and learning only.
 
 
 **InventedAttack** : https://raw.githubusercontent.com/avantasia/inventedAttack
-
-
-# Donation
-
-Donate me for more ddos tools :)
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/aalks)
